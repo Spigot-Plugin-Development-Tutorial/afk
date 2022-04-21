@@ -1,0 +1,9 @@
+name: AFK
+version: '${project.version}'
+main: me.kodysimpson.afk.AFK
+api-version: 1.18
+commands:
+  isafk:
+    description: See if you or someone else is AFK
+  afk:
+    description: Toggle your AFK status
